@@ -2,6 +2,9 @@
  * Created by zaq on 16/8/8.
  */
 var gulp = require('gulp');
+
+
+//我改了代码
 var htmlmin = require('gulp-htmlmin'), //html压缩
     imagemin = require('gulp-imagemin'),//图片压缩
     pngcrush = require('imagemin-pngcrush'),
